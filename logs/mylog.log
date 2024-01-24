@@ -1,0 +1,4 @@
+[INFO ] 2024-01-25 02:32:07.603 [main] RestAssuredAutomationFramework - Create User executed.
+[INFO ] 2024-01-25 02:32:09.078 [main] RestAssuredAutomationFramework - Get User Data executed.
+[INFO ] 2024-01-25 02:32:11.700 [main] RestAssuredAutomationFramework - Update User executed.
+[INFO ] 2024-01-25 02:32:12.977 [main] RestAssuredAutomationFramework - Delete User executed.
